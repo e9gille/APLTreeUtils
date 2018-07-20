@@ -1,0 +1,26 @@
+{
+  "name": "apltreeutils",
+  "version": "4.2.3",
+  "description": "core APL utilities",
+  "files": [
+    "acreconfig.txt",
+    "APLSource/APLTreeUtils*"
+  ],
+  "main": "APLTreeUtils",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplteam/APLTreeUtils.git"
+  },
+  "keywords": [
+    "APL"
+  ],
+  "author": "Kai Jaeger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aplteam/APLTreeUtils/issues"
+  },
+  "homepage": "https://github.com/aplteam/APLTreeUtils#readme"
+}
