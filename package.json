@@ -1,15 +1,13 @@
 {
   "name": "apltreeutils",
-  "version": "4.2.3",
+  "version": "4.2.4",
   "description": "core APL utilities",
   "files": [
     "acreconfig.txt",
     "APLSource/APLTreeUtils*"
   ],
   "main": "APLTreeUtils",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "projectSpace": "APLTreeUtils",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aplteam/APLTreeUtils.git"
